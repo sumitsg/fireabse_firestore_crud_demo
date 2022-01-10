@@ -14,3 +14,21 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<img src='https://github.com/sumitsg/fireabse_firestore_crud_demo/blob/master/lib/screenshots/home.png' width='150' >
+Home page
+
+---------------------------------------------------------------------------
+
+<img src='https://github.com/sumitsg/fireabse_firestore_crud_demo/blob/master/lib/screenshots/adduser.png' width='150' >
+Add Information
+
+---------------------------------------------------------------------------
+
+<img src='https://github.com/sumitsg/fireabse_firestore_crud_demo/blob/master/lib/screenshots/updateUser.png' width='150' >
+Update Information
+
+---------------------------------------------------------------------------
+
+<img src='https://github.com/sumitsg/fireabse_firestore_crud_demo/blob/master/lib/screenshots/deleteuser.png' width='150' >
+After User deleted
